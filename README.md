@@ -70,6 +70,3 @@
 
 现在最新的是detectron2，而且包含了很多的[模型](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)，所以如果我可以完成Mask_RCNN的在自己数据集上的使用， 接下来就可以探索detectron2的可行性；如果Mask_RCNN不能完成，maskrcnn_benchmark试一试。
 
-# Week-1
-# Week-1
-# Week-1
