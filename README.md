@@ -32,9 +32,9 @@
 
 ### 2. Why I Do it 
 
-1. Instance Segmentation = Object Detection (bounding box) + Semantic Segmentation![1](images/1.png)
+1. Instance Segmentation = Object Detection (bounding box) + Semantic Segmentation![1](https://github.com/Joanne513/Week-1/blob/master/images/1.png)
 
-   ![2](images/2.jpg)
+   ![2](https://github.com/Joanne513/Week-1/blob/master/images/2.jpg)
 
 ### 3. What Have I Done
 
@@ -62,7 +62,7 @@
 
 ##### 现有比较好的mask-rcnn开源框架：
 
-![3](images/3.JPG)
+![3](https://github.com/Joanne513/Week-1/blob/master/images/3.JPG)
 
 ###### Summary:
 
