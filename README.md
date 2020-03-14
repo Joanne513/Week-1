@@ -62,7 +62,7 @@
 
 ##### 现有比较好的mask-rcnn开源框架：
 
-![image-20200314134535627](C:\Users\wangdandan\AppData\Roaming\Typora\typora-user-images\image-20200314134535627.png)
+![3](images/3.JPG)
 
 ###### Summary:
 
