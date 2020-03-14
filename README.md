@@ -32,9 +32,9 @@
 
 ### 2. Why I Do it 
 
-1. Instance Segmentation = Object Detection (bounding box) + Semantic Segmentation![0_x_ZuQIlT4xHSYrp3](C:\Users\wangdandan\Downloads\0_x_ZuQIlT4xHSYrp3.png)
+1. Instance Segmentation = Object Detection (bounding box) + Semantic Segmentation![1](images/1.png)
 
-   ![maxresdefault](C:\Users\wangdandan\Downloads\maxresdefault.jpg)
+   ![2](images/2.jpg)
 
 ### 3. What Have I Done
 
