@@ -1,6 +1,6 @@
 # OVER VIEW OF THIS WEEK-1
 
-### What I Am Trying To Do 
+### 1. What I Am Trying To Do 
 
 * Set up & Install [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 * Run [demo.ipynb](https://github.com/matterport/Mask_RCNN/blob/master/samples/demo.ipynb) 
@@ -69,4 +69,5 @@
 无论是mask_RCNN(Keras版本的maskrcnn), 还是maskrcnn-benchmark(pytorch版本的maskrcnn),或者detectron都是已经废弃的，[FAIR](https://github.com/facebookresearch)都已经不在维护。
 
 现在最新的是detectron2，而且包含了很多的[模型](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)，所以如果我可以完成Mask_RCNN的在自己数据集上的使用， 接下来就可以探索detectron2的可行性；如果Mask_RCNN不能完成，maskrcnn_benchmark试一试。
+
 
